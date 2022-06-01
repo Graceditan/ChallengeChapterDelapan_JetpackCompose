@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChallengeChapterDelapan_JetpackCompose</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_home_acrivity">HomeAcrivity</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+</resources>
